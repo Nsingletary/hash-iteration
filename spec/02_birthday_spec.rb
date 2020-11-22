@@ -1,4 +1,3 @@
-require_relative "../lib/birthday.rb"
 
 describe "#happy_birthday" do
   it "prints out a birthday message to each kid in the birthday_kids hash" do
